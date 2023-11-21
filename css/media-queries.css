@@ -1,0 +1,212 @@
+
+@media screen and (max-width: 1150px) {
+    #menu li a {
+        font-size: 26px;
+    }
+
+    .site-title {
+        font-size: 40px;
+    }
+
+    .logo {
+        height: 18.5rem;
+    }
+
+    .site-header {
+        height: 24rem;
+    }
+
+    .footer-logo,
+    .footer {
+        height: 17rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 2rem 10rem;
+    }
+
+    p, div.auto {
+        margin: 0.5rem 15rem;
+    }
+
+}
+
+@media screen and (max-width: 945px) {
+    #menu li a {
+        font-size: 24px;
+        margin: 0 1.5rem;
+    }
+
+    .site-title {
+        font-size: 35px;
+        top: -6.5rem;
+    }
+
+    .logo {
+        height: 15.5rem;
+    }
+
+    .site-header {
+        height: 20rem;
+    }
+
+    .colour-bar,
+    .footer-colour-bar {
+        height: 2.5rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 2rem 6rem;
+    }
+
+    p, div.auto {
+        margin: 0.5rem 10rem;
+    }
+
+}
+
+@media screen and (max-width: 760px) {
+    #menu li a {
+        font-size: 21px;
+        margin: 0 1rem;
+    }
+
+    .site-title {
+        font-size: 32px;
+        top: -5.5rem;
+    }
+
+    .logo {
+        height: 13.5rem;
+    }
+
+    .site-header {
+        height: 18rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 3rem 4rem;
+    }
+
+    p, div.auto {
+        margin: 0.5rem 8rem;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+    
+    h2 {
+        font-size: 27px;
+    }
+    
+    h3 {
+        font-size: 17px;
+    }
+    
+    h4 {
+        font-size: 14px;
+    }
+    
+    h5 {
+        font-size: 12px;
+    }
+    
+    h6 {
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 630px) {
+    .smallscreen-logo {
+        display: block;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .button-container {
+        display: block;
+    }
+
+    #menu {
+        display: none;
+        padding-bottom: 2.5rem;
+    }
+
+    #menu li a {
+        font-size: 30px;
+    }
+
+    #menu li {
+        display: block;
+        width: fit-content;
+        padding: 10px;
+        margin: 0 auto;
+    }
+
+    .site-header {
+        height: fit-content;
+    }
+
+    .site-title {
+        display: block;
+        font-size: 46px;
+        top: 0;
+        width: fit-content;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .smallscreen-logo {
+        height: 16rem;
+    }
+
+    .site-title {
+        font-size: 40px;
+    }
+
+    #menu li a {
+        font-size: 25px;
+    }
+
+    #menu li {
+        padding: 8px;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 3rem 3rem;
+    }
+
+    p, div.auto {
+        margin: 0.5rem 6rem;
+    }
+
+}
+
+@media screen and (max-width: 440px) {
+    .smallscreen-logo {
+        height: 14rem;
+    }
+
+    .menu-button {
+        padding-bottom: 2.5rem;
+        margin: 2rem auto 0;
+    }
+
+    .site-title {
+        font-size: 38px;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 3rem 2.5rem;
+    }
+
+    p, div.auto {
+        margin: 0.5rem 4rem;
+    }
+
+}

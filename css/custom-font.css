@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Paralucent;
+    src: url(../fonts/Paralucent-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Paralucent;
+    src: url(../fonts/Paralucent-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Paralucent;
+    src: url(../fonts/Paralucent-ExtraLight.ttf);
+    font-weight: 100;
+}
